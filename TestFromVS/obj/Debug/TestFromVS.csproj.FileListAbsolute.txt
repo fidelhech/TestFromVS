@@ -1,0 +1,6 @@
+C:\Projects\TestFromVS\TestFromVS\bin\Debug\TestFromVS.exe.config
+C:\Projects\TestFromVS\TestFromVS\bin\Debug\TestFromVS.exe
+C:\Projects\TestFromVS\TestFromVS\bin\Debug\TestFromVS.pdb
+C:\Projects\TestFromVS\TestFromVS\obj\Debug\TestFromVS.csprojResolveAssemblyReference.cache
+C:\Projects\TestFromVS\TestFromVS\obj\Debug\TestFromVS.exe
+C:\Projects\TestFromVS\TestFromVS\obj\Debug\TestFromVS.pdb
